@@ -1,124 +1,124 @@
 [[GAP_pkg_normalizinterface]]
 arch = "aarch64"
-git-tree-sha1 = "17e7e02813d3f9ff13f0ef58826fd5e805e18c0b"
+git-tree-sha1 = "397d7be13b0db893b1198dc43a76da194e482c4c"
 os = "macos"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "e0e43c8c87974a80704ec6ffffc1c49ded395adf0363482deefc1c1638990a70"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.aarch64-apple-darwin.tar.gz"
+    sha256 = "913065fd8319eb806056a4068f0da189d179e77b12d04567c734edcfb0de3456"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a3749c7e7dd77049307c70a9da97cf75a506aa0"
+git-tree-sha1 = "fd6c39e9a6c74f66a70185fbbeebbdbef9143b8c"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "468d671c00a44ce521b97034ec1f81dd5b7f8adad74d319f57a2fd07bc123386"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a76f93e4172003ccc7e605b337d9a09255b5611a049c2a0b693c8deef4644672"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.aarch64-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa62e79c2d0b58f10fd15aaf95f1b6f9c7e2f8e7"
+git-tree-sha1 = "6e9384d7193994f34d3ffc05f37f0aa346f7c992"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "5cabc634d716764ea121fa49e7d58a71fb1da06d24e9fdd589f8d2b1fc804c2d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2cafa36a56d44d820c11cadf45f3730fc435a8b7d28f4dd54ec9e57fa1d103f9"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.aarch64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "06806d34342fce5076501ce385941e617dbacd37"
+git-tree-sha1 = "f4c0661b00a732b53f7fdd4413f0bb5681e9958b"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "26cd6ec93451190710aee1e1db17f1b40b4fbe5499a72d330017407e98618b06"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "8f4057404e63b0aced0a160885d589232ad34716ddf718a309976349dbf64191"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.aarch64-linux-musl-cxx03.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "196f0eda39783df83f46a37bfc3e8cde8e9a0eb7"
+git-tree-sha1 = "12aeda0235dbd7e491a271e4519581dd25ac0558"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "d7d72730ca2854785afaecb1f771e832664cd3105c620ee68210d13029a0caf3"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "576a5da2061d3ab425ec3c7ab60e58eac00ed7f48c0c0b8c90c976eee2c899db"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.aarch64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c10f03347744f0d7570762838e61eeaea322fa69"
+git-tree-sha1 = "92228aeb87a9cad7bad72e61d59f9e7eb81f6c4f"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "744d410a817cc159775ba965ef949cbfc81e8511c599c5851779392d3e16425c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "1b632c32b1a90f47b606faed0af8c13a85313bde573f96086e6e28ba0e06ec0f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b8e73f681ed57919db8ef9b243c24689ed91ef84"
+git-tree-sha1 = "d6d571f8c8b8d2fcd4a616077ecc34a1ffdac891"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "ec3fda31566c128cd24f49bae2374cfa25f812d598fe173f69610026087f71f5"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "5b17cd438e228f2e23925f358267c18ed2258f5d51fe64f64a83d455176cd95a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "x86_64"
-git-tree-sha1 = "86247e6ec2b72613a92ac4bb400b2704a08b835d"
+git-tree-sha1 = "bc4242e13148628d98e6dcbe48b7925706206e06"
 os = "macos"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "8c1fa5d0bbd5cb323c1ef409d30f2fe1ec24d00c5c4946a957e6ac73a3f9cecf"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.x86_64-apple-darwin.tar.gz"
+    sha256 = "4421f7f918e5937b8ca302f5f9ec65eff3b1191b7e6fdf357b8ed1e3e81dd0b2"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "810bfc2cfc6a17548efde0bcdbd237e31c7f72a3"
+git-tree-sha1 = "ffd4a1c73df76d0228a81eaae67ade6761d2358c"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "0c1c07fe8642f3bb65398d99cb8dd1dd03a30b9ddbef3d3d7593a15a4d0e7727"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "565548ec385564947cc905b108d28b287bcf760975fed56a3345510e508c6a7e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.x86_64-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c41dd18e44e96df37aff1128a6d79f688ce6aea"
+git-tree-sha1 = "948c6fc86dcb3b012a1b94a18956732dee9ebca8"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "63f319738f820af5fdff88835ce87b86ffae7b748c1510065fa7188d91d61653"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2bb6f3505fcee6240e64c13ef0323b1ab79be5f44cc823282e0f18258c16e800"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.x86_64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "47cf8cccee4650e47457cef77890dcf0ac87feed"
+git-tree-sha1 = "3ffefd58836d7208f490289bb662af199877e943"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "b2de412ce0bb617f2ee4b26572e80cbaa70adfd49af23fff1a1f0b77bce799e1"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "22a2dcf9d0406e91861e11d247bd7e99132888be0c2049a99e7f0e81bba409ba"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.x86_64-linux-musl-cxx03.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f39ed9edeff804854dd590ffdfe13a13c9760def"
+git-tree-sha1 = "0931daeccabc11becb937aa47a4503f5c92f31ed"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "b4cb2e029dc81901f8342e6e4005c01a92a67365a1f744818e997d1c2e3e8aa8"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "0cecfde3a558c5b71d345efe5d5c830cd085f9eca0d28d4808add767e07266bf"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.x86_64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_normalizinterface]]
 arch = "x86_64"
-git-tree-sha1 = "607d051da9717c00cce8e94f227efcdd6224e071"
+git-tree-sha1 = "560d8ac8c85053e3c4354fcb932cd08311b705b7"
 os = "freebsd"
 
     [[GAP_pkg_normalizinterface.download]]
-    sha256 = "5315205c29e7ed7fa73c14887f32eaf72921439351fb8fb5d7a4fa1bdd226922"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.600+0/GAP_pkg_normalizinterface.v100.300.600.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "23ff40e3bc94cc26f3c881b86ccdf869359d515cef0a217cddd71ec7b53b487a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v100.300.700+0/GAP_pkg_normalizinterface.v100.300.700.x86_64-unknown-freebsd.tar.gz"
